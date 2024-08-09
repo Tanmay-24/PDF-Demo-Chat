@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+milvus==2.3
+transformers
+pandas
+torch
+genv
+towhee
+pandas
+numpy
+towhee.models

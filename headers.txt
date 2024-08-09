@@ -1,0 +1,12 @@
+Job's Name,
+System Manufacturer,
+Section Spec,
+SOW Keywords,
+Primary product keywords,
+Primary product PDS URL	,
+Accessories products keywords,
+Accessories product PDS URL,
+Section Spec number,
+Section Spec path,
+File Name,
+Content	words
